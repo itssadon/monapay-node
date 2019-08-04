@@ -1,0 +1,30 @@
+{
+  "name": "@itssadon/monapay-node",
+  "version": "0.0.0",
+  "description": "A NodeJS library that simplifies payment with monpay APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itssadon/monapay-node.git"
+  },
+  "keywords": [
+    "API",
+    "Payments",
+    "Fintech",
+    "Naira",
+    "Airtime",
+    "monapay",
+    "nodejs",
+    "javascript",
+    "npm"
+  ],
+  "author": "Abubakar Hassan <abubakarhassan59@gmail.com> (https://www.twitter.com/itssadon/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itssadon/monapay-node/issues"
+  },
+  "homepage": "https://github.com/itssadon/monapay-node#readme"
+}
