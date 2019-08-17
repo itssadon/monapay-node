@@ -20,11 +20,7 @@ function Monapay(key) {
 }
 
 const resources = {
-    threeds: require("./resources/threeds"),
-    gtbank: require("./resources/gtbank"),
-    merchant: require("./resources/merchant"),
-    transaction: require("./resources/transaction"),
-    changeback: require("./resources/chargeback")
+    transaction: require("./resources/transaction")
 };
 
 Monapay.prototype = {
